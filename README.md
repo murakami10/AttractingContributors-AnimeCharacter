@@ -21,10 +21,11 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
+
 1. apple
 2. breads
 3. tom yum
 4. Any kind of Pasta!!!
 5. Miwa Somen
-
+6. pizza 1112
 
