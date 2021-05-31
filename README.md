@@ -28,4 +28,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Any kind of Pasta!!!
 5. Miwa Somen
 6. pizza 1112
+7. Koya Tofu
 
