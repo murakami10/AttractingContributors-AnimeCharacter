@@ -30,3 +30,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. pizza 1112
 7. Koya Tofu
 8. Cheeseburger
+9. Baumkuchen
+
+
